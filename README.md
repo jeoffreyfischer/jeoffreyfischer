@@ -2,7 +2,7 @@
 
 🏢 I work at SSW: https://www.ssw.com.au/people/jeoffrey-fischer/ <br />
 🧑‍🎓 PhD in AeroAcoustics <br />
-💻 Interests in .NET and Angular <br />
+💻 Interests in .NET, Angular and Auth <br />
 🎸 Guitarist for the past 25 years <br />
 💪 Personal Trainer Certificates 3 & 4
 
