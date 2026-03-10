@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Jeoffrey Fischer 👋
 
 - 🏢 I'm a Software Engineer at SSW: https://www.ssw.com.au/people/jeoffrey-fischer/ <br />
 - 🧑‍🎓 I hold a PhD in AeroAcoustics <br />
@@ -12,7 +12,13 @@
 - 🎖️ I'm a Certified:
   - Scrum Master
   - Personal Trainer (Certificates 3 & 4) <br />
-- ℹ️ Find out more on [jeoffreyfischer.com](https://www.jeoffreyfischer.com/)
+
+## How to Reach Me
+  - [Website](https://www.jeoffreyfischer.com/)
+  - [LinkedIn](https://www.linkedin.com/in/jeoffrey-fischer-9403b9a4/)
+  - [GitHub](https://github.com/jeoffreyfischer)
+  - [SSW](https://www.ssw.com.au/people/jeoffrey-fischer/)
+  - [YouTube](https://www.youtube.com/watch?v=IwvCTwz0C7M&list=PLZG1vgiO1reBW9z-Qj5od0vOyNXlLxdqt)
 
 ## GitHub Stats
 
