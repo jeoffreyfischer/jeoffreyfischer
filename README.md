@@ -14,6 +14,20 @@
   - Personal Trainer (Certificates 3 & 4) <br />
 - ℹ️ Find out more on [jeoffreyfischer.com](https://www.jeoffreyfischer.com/)
 
-[![Jeoffrey' GitHub stats](https://github-readme-stats.vercel.app/api?username=jeoffreyfischer&theme=onedark&show_icons=true)](https://github.com/pierssinclairssw/github-readme-stats)
+## GitHub Stats
 
-[![Jeoffrey' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeoffreyfischer&layout=compact&theme=onedark&show_icons=true)](https://github.com/pierssinclairssw/github-readme-stats)
+<a href='https://github.com/danielmackay'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jeoffreyfischer&show_icons=true&count_private=true">
+    <img alt="jeoffreyfischer's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeoffreyfischer&show_icons=true&theme=dark&count_private=true">
+  </picture>
+</a>
+
+<br />
+
+<a href='https://github.com/danielmackay'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeoffreyfischer&layout=compact">
+    <img alt="jeoffreyfischer's GitHub Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeoffreyfischer&theme=dark&layout=compact">
+  </picture>
+</a>
