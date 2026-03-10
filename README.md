@@ -14,10 +14,10 @@
   - Personal Trainer (Certificates 3 & 4) <br />
 
 ## How to Reach Me
-  - [Website](https://www.jeoffreyfischer.com/)
+
   - [LinkedIn](https://www.linkedin.com/in/jeoffrey-fischer-9403b9a4/)
-  - [GitHub](https://github.com/jeoffreyfischer)
-  - [SSW](https://www.ssw.com.au/people/jeoffrey-fischer/)
+  - [Website](https://www.jeoffreyfischer.com/)
+  - [SSW profile](https://www.ssw.com.au/people/jeoffrey-fischer/)
   - [YouTube](https://www.youtube.com/watch?v=IwvCTwz0C7M&list=PLZG1vgiO1reBW9z-Qj5od0vOyNXlLxdqt)
 
 ## GitHub Stats
